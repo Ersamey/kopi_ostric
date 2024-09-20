@@ -7,6 +7,7 @@
 </head>
 <body>
     <h1>Hello World</h1>
+    <h2>Ayo login dulu</h2>
     <a href="login.php">Login disini</a>
 </body>
 </html>
